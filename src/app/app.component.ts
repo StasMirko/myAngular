@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-arr = [1, 1, 2, 3, 5, 8, 13]
+now: Date = new Date()
 }
